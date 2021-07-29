@@ -7,3 +7,5 @@ The steptions:
 
 
 And more!
+
+The rest is on the site: [Click](https://kivymd.readthedocs.io/en/latest/getting-started/)
